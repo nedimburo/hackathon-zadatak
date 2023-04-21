@@ -23,4 +23,4 @@ Note 'anything' in the codeList represents that any fruit can be ordered in plac
 group. 'anything' has to be something, it cannot be "nothing." 'anything' must represent one and only
 one fruit. If secret code list is empty then it is assumed that the buyer is a winner.
 Please provide written explanation of your approach.<br />
-Documentaion is written inside the code.
+- Documentaion is written inside the code.
