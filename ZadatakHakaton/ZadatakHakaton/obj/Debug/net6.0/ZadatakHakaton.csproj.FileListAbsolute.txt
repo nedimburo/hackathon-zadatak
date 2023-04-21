@@ -1,0 +1,15 @@
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\bin\Debug\net6.0\ZadatakHakaton.exe
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\bin\Debug\net6.0\ZadatakHakaton.deps.json
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\bin\Debug\net6.0\ZadatakHakaton.runtimeconfig.json
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\bin\Debug\net6.0\ZadatakHakaton.dll
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\bin\Debug\net6.0\ZadatakHakaton.pdb
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ZadatakHakaton.csproj.AssemblyReference.cache
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ZadatakHakaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ZadatakHakaton.AssemblyInfoInputs.cache
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ZadatakHakaton.AssemblyInfo.cs
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ZadatakHakaton.csproj.CoreCompileInputs.cache
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ZadatakHakaton.dll
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\refint\ZadatakHakaton.dll
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ZadatakHakaton.pdb
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ZadatakHakaton.genruntimeconfig.cache
+C:\Users\BuroPC\Desktop\ZadatakHakaton\ZadatakHakaton\obj\Debug\net6.0\ref\ZadatakHakaton.dll
